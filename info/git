@@ -1,0 +1,8 @@
+git init //инициация репозитория
+git config --local user.name "yehor"
+git config --local user.email "example@gmail.com"
+git add -A
+git commit -a -m"first commit"
+git log
+git checkout
+git pull
